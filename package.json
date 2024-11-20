@@ -1,0 +1,16 @@
+{
+  "name": "core-algorithm-word-search",
+  "version": "1.0.0",
+  "description": "В этой задаче нужно будет написать алгоритм поиска, который скажет, можно ли найти входное слово в головоломке поиска слов, которая тоже подается функции на вход.",
+  "main": "wordSearch.js",
+  "scripts": {
+    "start": "node --watch wordSearch.js",
+    "test": "jest -i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
